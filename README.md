@@ -1,3 +1,7 @@
+This repository is a minimal template created to understand
+authentication boundaries and JWT flow.
+It is not intended as a production-ready application.
+
 # Users REST API (Node.js / Express)
 Express REST API starter template with JWT authentication (learning-focused)
 
